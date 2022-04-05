@@ -1,0 +1,17 @@
+.search{
+    margin-left: 36%;
+    margin-top: 2%;
+}
+.searchbar{
+    position: absolute;
+    padding: 10px 80px;
+    border-radius: 50px;
+    border: solid 1px rgb(192, 188, 188)
+}
+.searchicon{
+    position: relative;
+    left: 25px;
+    top: 10px;
+    font-size: 20px;
+    color: grey;
+}

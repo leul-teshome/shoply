@@ -1,0 +1,43 @@
+.sidebarcontainer{
+    flex: 2;
+}
+.title{
+    display: flex;
+    padding: 5px 40px;
+    justify-content: left;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 500;
+}
+.sidebardivider{
+    width: 100%;
+    height: 0.1px;
+    background-color: grey;
+}
+.container input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.radios{
+    /* display: flex ; */
+    align-items: center;
+    justify-content: center;
+    padding: 5px 70px;
+}
+.radio .checkbox{
+    display: block;
+    position: absolute;
+}
+.hmm{
+    display: block;
+    position: relative;
+    left: -20px;
+    top: 20px;
+}
+label{
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
